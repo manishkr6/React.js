@@ -160,6 +160,4 @@ const AllRooms = () => {
   );
 };
 
-// 2 35
-
 export default AllRooms;
